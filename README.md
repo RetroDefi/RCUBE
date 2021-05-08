@@ -8,5 +8,5 @@ R-CUBE  runs in cycles . On every cycle, the Burn Rate is increased in 1% increm
 
 After the end of each cycle a rebase will be called which rebases 25% of the burned tokens during the previous cycle to holders wallets.
 
-Contract Adress: 0xa6e53f07bD410df069e20Ced725bdC9135146Fe9
+Contract Address: 0xa6e53f07bD410df069e20Ced725bdC9135146Fe9
 Chain: BSC
